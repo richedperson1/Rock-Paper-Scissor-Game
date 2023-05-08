@@ -1,5 +1,3 @@
-I apologize for the confusion. Here's an updated README.md file for the Rock-Paper-Scissor-Game repository made using JavaScript:
-
 # Rock-Paper-Scissor-Game
 
 This is a simple web-based implementation of the Rock-Paper-Scissor game in JavaScript.
